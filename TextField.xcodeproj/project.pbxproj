@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		ACABDB6B297EA16A001930E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB6A297EA16A001930E5 /* AppDelegate.swift */; };
 		ACABDB6D297EA16A001930E5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB6C297EA16A001930E5 /* SceneDelegate.swift */; };
-		ACABDB6F297EA16A001930E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB6E297EA16A001930E5 /* ViewController.swift */; };
-		ACABDB72297EA16A001930E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACABDB70297EA16A001930E5 /* Main.storyboard */; };
+		ACABDB6F297EA16A001930E5 /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB6E297EA16A001930E5 /* RegistrationViewController.swift */; };
 		ACABDB74297EA16B001930E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACABDB73297EA16B001930E5 /* Assets.xcassets */; };
-		ACABDB77297EA16B001930E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACABDB75297EA16B001930E5 /* LaunchScreen.storyboard */; };
+		ACABDB7F297EA9DE001930E5 /* Extension + TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB7E297EA9DE001930E5 /* Extension + TextField.swift */; };
+		ACABDB82297EAA9C001930E5 /* Extension + Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB81297EAA9C001930E5 /* Extension + Label.swift */; };
+		ACABDB85297EB00A001930E5 /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB84297EB00A001930E5 /* Validator.swift */; };
+		ACABDB87297EB7C5001930E5 /* Extension + Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB86297EB7C5001930E5 /* Extension + Button.swift */; };
+		ACABDB89297EB904001930E5 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB88297EB904001930E5 /* InfoViewController.swift */; };
+		ACABDB8B297EC2AB001930E5 /* Extension + ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB8A297EC2AB001930E5 /* Extension + ImageView.swift */; };
+		ACABDB8D297EC408001930E5 /* ChangeInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB8C297EC408001930E5 /* ChangeInfoViewController.swift */; };
+		ACABDB90297ED599001930E5 /* Extension + Segment.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB8F297ED599001930E5 /* Extension + Segment.swift */; };
+		ACABDB92297ED617001930E5 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACABDB91297ED617001930E5 /* Photo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		ACABDB67297EA16A001930E5 /* TextField.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextField.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACABDB6A297EA16A001930E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACABDB6C297EA16A001930E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		ACABDB6E297EA16A001930E5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		ACABDB71297EA16A001930E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		ACABDB6E297EA16A001930E5 /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
 		ACABDB73297EA16B001930E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ACABDB76297EA16B001930E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACABDB78297EA16B001930E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACABDB7E297EA9DE001930E5 /* Extension + TextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + TextField.swift"; sourceTree = "<group>"; };
+		ACABDB81297EAA9C001930E5 /* Extension + Label.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + Label.swift"; sourceTree = "<group>"; };
+		ACABDB84297EB00A001930E5 /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
+		ACABDB86297EB7C5001930E5 /* Extension + Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + Button.swift"; sourceTree = "<group>"; };
+		ACABDB88297EB904001930E5 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		ACABDB8A297EC2AB001930E5 /* Extension + ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + ImageView.swift"; sourceTree = "<group>"; };
+		ACABDB8C297EC408001930E5 /* ChangeInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeInfoViewController.swift; sourceTree = "<group>"; };
+		ACABDB8F297ED599001930E5 /* Extension + Segment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + Segment.swift"; sourceTree = "<group>"; };
+		ACABDB91297ED617001930E5 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +51,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		ACA77EA0297F17560004E522 /* Supporting */ = {
+			isa = PBXGroup;
+			children = (
+				ACABDB6A297EA16A001930E5 /* AppDelegate.swift */,
+				ACABDB6C297EA16A001930E5 /* SceneDelegate.swift */,
+			);
+			path = Supporting;
+			sourceTree = "<group>";
+		};
+		ACA77EA1297F176F0004E522 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				ACABDB6E297EA16A001930E5 /* RegistrationViewController.swift */,
+				ACABDB88297EB904001930E5 /* InfoViewController.swift */,
+				ACABDB8C297EC408001930E5 /* ChangeInfoViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		ACA77EA2297F17800004E522 /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				ACABDB73297EA16B001930E5 /* Assets.xcassets */,
+				ACABDB78297EA16B001930E5 /* Info.plist */,
+			);
+			path = Others;
+			sourceTree = "<group>";
+		};
 		ACABDB5E297EA16A001930E5 = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +98,34 @@
 		ACABDB69297EA16A001930E5 /* TextField */ = {
 			isa = PBXGroup;
 			children = (
-				ACABDB6A297EA16A001930E5 /* AppDelegate.swift */,
-				ACABDB6C297EA16A001930E5 /* SceneDelegate.swift */,
-				ACABDB6E297EA16A001930E5 /* ViewController.swift */,
-				ACABDB70297EA16A001930E5 /* Main.storyboard */,
-				ACABDB73297EA16B001930E5 /* Assets.xcassets */,
-				ACABDB75297EA16B001930E5 /* LaunchScreen.storyboard */,
-				ACABDB78297EA16B001930E5 /* Info.plist */,
+				ACABDB83297EB004001930E5 /* Model */,
+				ACA77EA0297F17560004E522 /* Supporting */,
+				ACA77EA1297F176F0004E522 /* Controllers */,
+				ACA77EA2297F17800004E522 /* Others */,
+				ACABDB80297EA9E4001930E5 /* Extension */,
 			);
 			path = TextField;
+			sourceTree = "<group>";
+		};
+		ACABDB80297EA9E4001930E5 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				ACABDB7E297EA9DE001930E5 /* Extension + TextField.swift */,
+				ACABDB81297EAA9C001930E5 /* Extension + Label.swift */,
+				ACABDB86297EB7C5001930E5 /* Extension + Button.swift */,
+				ACABDB8A297EC2AB001930E5 /* Extension + ImageView.swift */,
+				ACABDB8F297ED599001930E5 /* Extension + Segment.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		ACABDB83297EB004001930E5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ACABDB84297EB00A001930E5 /* Validator.swift */,
+				ACABDB91297ED617001930E5 /* Photo.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +186,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACABDB77297EA16B001930E5 /* LaunchScreen.storyboard in Resources */,
 				ACABDB74297EA16B001930E5 /* Assets.xcassets in Resources */,
-				ACABDB72297EA16A001930E5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,32 +197,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACABDB6F297EA16A001930E5 /* ViewController.swift in Sources */,
+				ACABDB92297ED617001930E5 /* Photo.swift in Sources */,
+				ACABDB82297EAA9C001930E5 /* Extension + Label.swift in Sources */,
+				ACABDB6F297EA16A001930E5 /* RegistrationViewController.swift in Sources */,
+				ACABDB90297ED599001930E5 /* Extension + Segment.swift in Sources */,
+				ACABDB8D297EC408001930E5 /* ChangeInfoViewController.swift in Sources */,
+				ACABDB87297EB7C5001930E5 /* Extension + Button.swift in Sources */,
 				ACABDB6B297EA16A001930E5 /* AppDelegate.swift in Sources */,
 				ACABDB6D297EA16A001930E5 /* SceneDelegate.swift in Sources */,
+				ACABDB8B297EC2AB001930E5 /* Extension + ImageView.swift in Sources */,
+				ACABDB85297EB00A001930E5 /* Validator.swift in Sources */,
+				ACABDB89297EB904001930E5 /* InfoViewController.swift in Sources */,
+				ACABDB7F297EA9DE001930E5 /* Extension + TextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		ACABDB70297EA16A001930E5 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				ACABDB71297EA16A001930E5 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		ACABDB75297EA16B001930E5 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				ACABDB76297EA16B001930E5 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		ACABDB79297EA16B001930E5 /* Debug */ = {
@@ -288,10 +337,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TextField/Info.plist;
+				INFOPLIST_FILE = TextField/Others/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -315,10 +363,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TextField/Info.plist;
+				INFOPLIST_FILE = TextField/Others/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
